@@ -1,2 +1,0 @@
-- name: Docker Print Hello, World
-  uses: yk14sec/helloworld-actions@v1.3
